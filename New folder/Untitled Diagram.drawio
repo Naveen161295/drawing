@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-04T06:31:20.311Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Uhn2sht5ModazCMw6Be7" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-04T06:35:53.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="CWg8h3Cb4aHTuIoSU6X0" version="22.0.8" type="github">
   <diagram name="Page-1" id="mrN5fWrf-7MYfBmC7XXu">
     <mxGraphModel dx="1520" dy="563" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,6 +22,9 @@
         <mxCell id="iTSB0IapyPLSgjOAP7Df-18" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application_server" vertex="1" parent="iTSB0IapyPLSgjOAP7Df-12">
           <mxGeometry x="426" y="31.47" width="166.44" height="193.53" as="geometry" />
         </mxCell>
+        <mxCell id="iTSB0IapyPLSgjOAP7Df-20" value="Security group" style="fillColor=none;strokeColor=#DD3522;verticalAlign=top;fontStyle=0;fontColor=#DD3522;whiteSpace=wrap;html=1;" vertex="1" parent="iTSB0IapyPLSgjOAP7Df-12">
+          <mxGeometry x="446" y="90" width="51" height="42" as="geometry" />
+        </mxCell>
         <mxCell id="iTSB0IapyPLSgjOAP7Df-13" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="983" y="339" width="87" height="118" as="geometry" />
         </mxCell>
@@ -36,6 +39,9 @@
         </mxCell>
         <mxCell id="iTSB0IapyPLSgjOAP7Df-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-cute-style-vol-2/52/server__database__data__storage__computer__webserver__electronic-128.png" vertex="1" parent="1">
           <mxGeometry x="274" y="403" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="iTSB0IapyPLSgjOAP7Df-19" value="Security group" style="fillColor=none;strokeColor=#DD3522;verticalAlign=top;fontStyle=0;fontColor=#DD3522;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="301" y="442" width="70" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
